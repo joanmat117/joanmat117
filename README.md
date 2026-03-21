@@ -5,7 +5,7 @@
 
 > "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
 
-My journey started with a blinking Arduino LED. Since then, I've been transforming ideas into digital experiences that people actually enjoy using. I’m a **Frontend Developer** deep into **React, Next.js, and TypeScript**, always looking for the best way to make things stick together.
+My journey started with a blinking Arduino LED. Since then, I've been transforming ideas into digital experiences that people actually enjoy using. I’m a **Fullstack Developer** deep into **React, Next.js, TypeScript, Nodej.js and Nestjs**, always looking for the best way to make things stick together.
 
 - ✍️ I share my thoughts on tech at **[DevThink](https://devthink.vercel.app)**.
 - 🎯 I'm a firm believer that the web should be accessible and feel "magical" without being complicated.
