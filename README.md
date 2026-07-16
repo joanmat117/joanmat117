@@ -7,7 +7,7 @@
 
 My journey started with a blinking Arduino LED. Since then, I've been transforming ideas into digital experiences that people actually enjoy using. I’m a **Fullstack Developer** deep into **React, Next.js, TypeScript, Nodej.js and Nestjs**, always looking for the best way to make things stick together.
 
-- ✍️ I share my thoughts on tech at **[DevThink](https://devthink.vercel.app)**.
+- ✍️ I share my thoughts on tech at **[Medium](https://medium.com/@joanmat)**.
 - 🎯 I'm a firm believer that the web should be accessible and feel "magical" without being complicated.
 - 🧪 I actually enjoy writing tests with **Vitest** because I value code that stays reliable.
 
