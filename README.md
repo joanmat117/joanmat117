@@ -5,11 +5,9 @@
 
 > "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
 
-My journey started with a blinking Arduino LED. Since then, I've been transforming ideas into digital experiences that people actually enjoy using. I’m a **Fullstack Developer** deep into **React, Next.js, TypeScript, Nodej.js and Nestjs**, always looking for the best way to make things stick together.
+My journey started with a blinking Arduino LED. Since then, I've been transforming ideas into digital experiences that people actually enjoy using. I’m a **Fullstack Developer** deep into **React, Next.js, TypeScript, Node.js and Nestjs**, always looking for the best way to make things stick together.
 
 - ✍️ I share my thoughts on tech at **[Medium](https://medium.com/@joanmat)**.
-- 🎯 I'm a firm believer that the web should be accessible and feel "magical" without being complicated.
-- 🧪 I actually enjoy writing tests with **Vitest** because I value code that stays reliable.
 
 </div>
 
@@ -51,7 +49,6 @@ My journey started with a blinking Arduino LED. Since then, I've been transformi
 Whether it's a project idea or just geeking out about the latest in web dev, my inbox is always open.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-matias-dominguez-3652a1365/)
-[![Blog](https://img.shields.io/badge/DevThink-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devthink.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanmat@proton.me)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joanmat117)
 
