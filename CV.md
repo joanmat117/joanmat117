@@ -1,57 +1,109 @@
-# Joan Matias Domingues
-Desarrollador FullStack
-- Ubicacion: Matanzas, Cuba  
-- Correo: joanmat@proton.me 
-- Github: https://github.com/joanmat117 
-- LinkedIn: https://linkedin.com/in/joanmat
+# Joan Matias Dominguez
 
-## Resumen:
-Desarrollador Fullstack con 2 años de experiencia en TypeScript, Next.js y NestJS. Especializado en arquitecturas modulares, optimización de rendimiento, SEO técnico y sistemas de autenticación avanzada. Experiencia en proyectos end-to-end como único frontend y en soluciones fullstack con integración de IA, WebSockets y Electron.
+**Desarrollador FullStack**
 
-<!--
-Anadir: Testing e2e y unitario, Desarrollo con IA e integracion de apps con la IA
--->
+* **Ubicación:** Matanzas, Cuba
 
-## Experiencia:
-### Qvazo Market, Desarrollador Frontend (Tiempo Parcial) – Remoto
- *Mar 2026 – Ago 2026*
-- Estandaricé patrones de datos e interfaz definiendo flujos de negocio claros, reduciendo el desarrollo un 30% y mejorando eficacia de IA al acotar el dominio.
-- Optimicé el rendimiento y SEO global migrando a Server Components y SSR, i18n para 4 idiomas, reduciendo bundle JS un 25% y mejorando LCP en 300 ms.
-- Diseñé un pipeline de middleware con permisos dinámicos (RBAC) y renovación automática de JWT, reduciendo timeouts de sesión un 40% y protegiendo 9 módulos funcionales.
-### Propiedades Aburrá, Desarrollador Frontend (Freelance) – Remoto
- *Ene 2026 – Feb 2026*
-- Desarrollé un estimador de precios de viviendas usando React 19, Tailwind, shadcn/ui y Zustand
-- Implementé auto-guardado en el formulario con escritura diferida, reduciendo renders innecesarios y sincronizando los datos sin interrumpir al usuario.
-- Logré 96/100 en PageSpeed, LCP de 1.0s, TBT cero y CLS de 0.001
+* **Correo:** joanmat@proton.me
 
-### Sitio Web de Comunidad Privada, Desarrollador FullStack (Freelance) – Remoto
+* **Número:** +53 56876678
+
+* **GitHub:** https://github.com/joanmat117
+
+* **LinkedIn:** https://linkedin.com/in/joanmat
+
+## Resumen
+
+Desarrollador FullStack con 2+ años de experiencia especializado en TypeScript, React, Nextjs, NestJS y Python. Amplia experiencia en desarrollo impulsado por IA, integración de modelos de lenguaje en aplicaciones web, integración de pasarelas de pago y testing automatizado (pruebas unitarias y E2E utilizando Cypress, Jest y Vitest). Demostrada capacidad en arquitectura de software, diseño de sistemas escalables y desarrollo de backend/frontend optimizados (caching con Redis, colas de procesamiento, WebSockets y arquitecturas modulares).
+
+## Experiencia
+
+### Qvazo Market — Desarrollador Frontend (Tiempo Parcial) | Remoto
+
+*Mar 2026 – Ago 2026*
+
+* Estandaricé patrones de datos e interfaces acotando el dominio de software, lo que incrementó la eficacia del código generado por IA y redujo el tiempo de desarrollo un 30%.
+
+* Migré la aplicación a Server Components (Next.js) con i18n para 4 idiomas, reduciendo el bundle JS un 25% y mejorando el LCP en 300 ms.
+
+* Integré la pasarela de pagos Tropipay para el procesamiento seguro de transacciones financieras en la plataforma e-commerce.
+
+* Diseñé un pipeline de middleware con permisos dinámicos (RBAC) y renovación automática de JWT, protegiendo 9 módulos y reduciendo timeouts de sesión un 40%.
+
+### Propiedades Aburrá — Desarrollador Frontend (Freelance) | Remoto
+
+*Ene 2026 – Feb 2026*
+
+* Desarrollé un estimador interactivo de precios de vivienda utilizando React 19, Tailwind CSS, shadcn/ui y Zustand.
+
+* Implementé escritura diferida (debounce) en formularios para sincronizar datos sin interrumpir la experiencia de usuario ni generar renders innecesarios.
+
+* Logré un rendimiento de 96/100 en PageSpeed con LCP de 1.0s, TBT de 0ms y CLS de 0.001.
+
+### Sitio Web de Comunidad Privada — Desarrollador FullStack (Freelance) | Remoto
+
 *Nov 2024 – Nov 2025*
-- Desarrollé un sitio web comunitario con React, TailwindCSS y Supabase
-- Construí autenticación OAuth, CMS personalizado y carga de imágenes a ImageKit
-- Integré 5 chats de IA (Google Gemini), chat en tiempo real y una aplicación de escritorio con Electron
+
+* Integré 5 chats conversacionales basados en la API de Google Gemini para interacción con IA en tiempo real.
+
+* Implementé la comunicación bidireccional en tiempo real con WebSockets para los sistemas de chat y una aplicación de escritorio multiplataforma con Electron.
+
+* Desarrollé una arquitectura FullStack con React, Tailwind CSS y Supabase, incluyendo autenticación OAuth, CMS personalizado y optimización multimedia con ImageKit.
+
+## Proyectos Destacados
+
+### AI Recruiter — Sistema de Evaluación de Candidatos con IA
+
+*Sistema backend distribuido y asíncrono para el análisis inteligente y emparejamiento de CVs contra vacantes laborales.*
+
+* Construí un motor de evaluación con agentes de IA (LangGraph y LangChain) que procesa perfiles candidatos, valida requisitos y genera recomendaciones de contratación estructuradas.
+
+* Diseñé una arquitectura asíncrona basada en colas de procesamiento (BullMQ y Redis) para gestionar la extracción de documentos y pipelines de IA de forma escalable.
+
+* Integré almacenamiento relacional en PostgreSQL utilizando Drizzle ORM estructurado bajo principios de Clean Architecture y aislamiento de dominio.
+
+### Cryptocurrency Data Backend
+
+*Feb 2026 – Abr 2026*
+
+*API REST para análisis de criptomonedas construida con NestJS, PostgreSQL y Prisma ORM.*
+
+* Diseñé autenticación sin contraseñas mediante frases secretas (argon2id) y rotación de tokens JWT con detección de robo de sesión en tiempo real.
+
+* Implementé rate limiting jerárquico con ThrottlerGuard para mitigar ataques de fuerza bruta en endpoints sensibles.
+
+* Creé una suite de pruebas unitarias e integración utilizando Vitest y Supertest para asegurar la estabilidad de la API.
 
 ## Habilidades Técnicas
-**Lenguajes:** TypeScript, JavaScript, Python, SQL, CSS, HTML
-**Frameworks y Librerías:** Langgraph, Langchain, Next.js, React, NestJS, Express, PostgreSQL, Redux Toolkit, Node.js, Vitests, Cypress
-**Herramientas y Prácticas:** APIs RESTful, OAuth, Docker, Git, Metodologías Ágiles, Desarrollo impulsado por IA.
 
-## Proyectos
-### Cryptocurrency Data Backend
- *Feb 2026 – Abr 2026*
-API REST para criptomonedas desarrollada con NestJS, PostgreSQL (Neon) y Prisma ORM.
-- Diseñé autenticación sin contraseñas con secret phrases (argon2id) y rotación de JWT, detectando robo de sesiones en
-tiempo real.
-- Implementé rate limiting jerárquico con ThrottlerGuard, protegiendo endpoints sensibles y bloqueando ataques de fuerza bruta.
-## Educacion
+* **IA & LLMs:** LangChain, LangGraph, OpenAI API, Gemini API, RAG, Desarrollo impulsado por IA.
 
-- 2026 - Presente: Ingenieria en Ciencias de la Computacion, Universidad de las Ciencias Informaticas, La Habana.
-<!-- - 2026: [Curso Entendiendo la Ciencia de Datos (datacamp.com)](https://www.datacamp.com/completed/statement-of-accomplishment/course/b16a8c33d886d2127efa80aef19ae3b3e38f037e?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) -->
-- 2026: [Curso de Python Intermedio para Desarrolladores (datacamp.com)](https://www.datacamp.com/completed/statement-of-accomplishment/course/9d6d6b3857a43cec1f16bfdd2feb11f007cd8008)
-- 2026: [Certificacion de Ingeniero de Software (hackerrank.com)](https://www.hackerrank.com/certificates/d0e54541a82d)
-- 2025: [Curso de Ingenieria de Prompts (codigofacilito.com)](https://codigofacilito.com/certificates/8b4c1f75-24cc-44f2-ae8f-c5e57007bec0)
-- 2025: [Curso Profesional de Bases de Datos (codigofacilito.com)](https://codigofacilito.com/certificates/f4a13585-4f16-4ce8-9c18-7e71b677a78d)
-- 2025: [Curso Profesional de Typescript (codigofacilito.com)](https://codigofacilito.com/certificates/d189660f-94c4-43d6-a9be-e66aab03cf7b)
+* **Arquitectura & Testing:** Arquitectura de Software, Diseño de Sistemas, Escalabilidad, Clean Architecture, APIs RESTful, Testing Unitario y E2E (Cypress, Jest, Vitest).
+
+* **Lenguajes:** TypeScript, JavaScript (ES6+), Python, SQL, HTML5/CSS3.
+
+* **Backend:** NestJS, Node.js, Express, WebSockets, BullMQ (Colas), Caching con Redis.
+
+* **Frontend:** Next.js, React, Astro, Redux Toolkit, Zustand, Tailwind CSS.
+
+* **Bases de Datos & Herramientas:** PostgreSQL, Drizzle ORM, Prisma ORM, Supabase, Docker, Docker Compose, Git.
+
+## Educación y Certificaciones
+
+* **Ingeniería en Ciencias de la Computación** — Universidad de las Ciencias Informáticas (UCI), La Habana *(2026 – Presente)*
+
+* **Certificación de Ingeniero de Software** — HackerRank *(2026)*
+
+* **Curso de Python Intermedio para Desarrolladores** — DataCamp *(2026)*
+
+* **Curso de Ingeniería de Prompts** — Código Facilito *(2025)*
+
+* **Curso Profesional de TypeScript** — Código Facilito *(2025)*
+
+* **Curso Profesional de Bases de Datos** — Código Facilito *(2025)*
 
 ## Idiomas
-**Español**: Nativo
-**Inglés**: Intermedio
+
+* **Español:** Nativo
+
+* **Inglés:** Intermedio (B1/B2)
