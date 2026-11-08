@@ -18,6 +18,16 @@ Desarrollador FullStack con 2+ años de experiencia especializado en TypeScript,
 
 ## Experiencia
 
+### Desoft — Desarrollador FullStack / Odoo | Presencial
+
+*Oct 2026 – Presente*
+
+* Desarrollo y extensión de módulos personalizados en Odoo utilizando Python, aplicando patrones de diseño para la mantenibilidad del sistema.
+
+* Refactoricé código legacy optimizando consultas a base de datos y reduciendo la duplicación de código en la lógica de negocio.
+
+* Elaboré la documentación técnica de APIs RESTful para facilitar el consumo de servicios intermodulares.
+
 ### Qvazo Market — Desarrollador Frontend (Tiempo Parcial) | Remoto
 
 *Mar 2026 – Ago 2026*
@@ -63,8 +73,6 @@ Desarrollador FullStack con 2+ años de experiencia especializado en TypeScript,
 * Integré almacenamiento relacional en PostgreSQL utilizando Drizzle ORM estructurado bajo principios de Clean Architecture y aislamiento de dominio.
 
 ### Cryptocurrency Data Backend
-
-*Feb 2026 – Abr 2026*
 
 *API REST para análisis de criptomonedas construida con NestJS, PostgreSQL y Prisma ORM.*
 
