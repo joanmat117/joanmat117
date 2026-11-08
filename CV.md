@@ -14,7 +14,7 @@
 
 ## Resumen
 
-Desarrollador FullStack con 2+ años de experiencia especializado en TypeScript, React, Nextjs, NestJS y Python. Amplia experiencia en desarrollo impulsado por IA, integración de modelos de lenguaje en aplicaciones web, integración de pasarelas de pago y testing automatizado (pruebas unitarias y E2E utilizando Cypress, Jest y Vitest). Demostrada capacidad en arquitectura de software, diseño de sistemas escalables y desarrollo de backend/frontend optimizados (caching con Redis, colas de procesamiento, WebSockets y arquitecturas modulares).
+Desarrollador FullStack con 2+ años de experiencia especializado en TypeScript, React, Next.js, NestJS y Python. Amplia experiencia en desarrollo impulsado por IA, integración de modelos de lenguaje en aplicaciones web, integración de pasarelas de pago y testing automatizado (pruebas unitarias y E2E utilizando Cypress, Jest y Vitest). Demostrada capacidad en arquitectura de software, diseño de sistemas escalables y desarrollo de backend/frontend optimizados (caching con Redis, colas de procesamiento, WebSockets y arquitecturas modulares).
 
 ## Experiencia
 
