@@ -60,6 +60,20 @@ Desarrollador FullStack con 2+ años de experiencia especializado en TypeScript,
 
 * Desarrollé una arquitectura FullStack con React, Tailwind CSS y Supabase, incluyendo autenticación OAuth, CMS personalizado y optimización multimedia con ImageKit.
 
+## Habilidades Técnicas
+
+* **IA & LLMs:** LangChain, LangGraph, OpenAI API, Gemini API, RAG, Desarrollo impulsado por IA.
+
+* **Arquitectura & Testing:** Arquitectura de Software, Diseño de Sistemas, Escalabilidad, Clean Architecture, APIs RESTful, Testing Unitario y E2E (Cypress, Jest, Vitest).
+
+* **Lenguajes:** TypeScript, JavaScript (ES6+), Python, SQL, HTML5/CSS3.
+
+* **Backend:** NestJS, Node.js, Express, WebSockets, BullMQ (Colas), Caching con Redis.
+
+* **Frontend:** Next.js, React, Astro, Redux Toolkit, Zustand, Tailwind CSS.
+
+* **Bases de Datos & Herramientas:** PostgreSQL, Drizzle ORM, Prisma ORM, Supabase, Docker, Docker Compose, Git.
+
 ## Proyectos Destacados
 
 ### AI Recruiter — Sistema de Evaluación de Candidatos con IA
@@ -81,20 +95,6 @@ Desarrollador FullStack con 2+ años de experiencia especializado en TypeScript,
 * Implementé rate limiting jerárquico con ThrottlerGuard para mitigar ataques de fuerza bruta en endpoints sensibles.
 
 * Creé una suite de pruebas unitarias e integración utilizando Vitest y Supertest para asegurar la estabilidad de la API.
-
-## Habilidades Técnicas
-
-* **IA & LLMs:** LangChain, LangGraph, OpenAI API, Gemini API, RAG, Desarrollo impulsado por IA.
-
-* **Arquitectura & Testing:** Arquitectura de Software, Diseño de Sistemas, Escalabilidad, Clean Architecture, APIs RESTful, Testing Unitario y E2E (Cypress, Jest, Vitest).
-
-* **Lenguajes:** TypeScript, JavaScript (ES6+), Python, SQL, HTML5/CSS3.
-
-* **Backend:** NestJS, Node.js, Express, WebSockets, BullMQ (Colas), Caching con Redis.
-
-* **Frontend:** Next.js, React, Astro, Redux Toolkit, Zustand, Tailwind CSS.
-
-* **Bases de Datos & Herramientas:** PostgreSQL, Drizzle ORM, Prisma ORM, Supabase, Docker, Docker Compose, Git.
 
 ## Educación y Certificaciones
 
